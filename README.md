@@ -21,3 +21,5 @@
 
 
 # Servometer
+https://wokwi.com/projects/334980474406437458 with potentiometer
+https://wokwi.com/projects/334980150211904084 without
