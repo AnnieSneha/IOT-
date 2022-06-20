@@ -5,14 +5,14 @@
 3.Arduino RGB LED:https://wokwi.com/projects/334340428564267602 <br>
 4.LCD: https://wokwi.com/projects/334976766828347987<br>
 5.Ultrasonic sensor: https://wokwi.com/projects/334977837533495891
-6.Temperature and Humidity:
-7.IR:
-8.PIR:
-9.button led:
-10.led fade:
-11.Motion Sensor:
-12.Motion Sensor Buzzer:
-13.Ultra Sonic sensor LED
+6.Temperature and Humidity:<br>
+7.IR:<br>
+8.PIR:<br>
+9.button led:<br>
+10.led fade:<br>
+11.Motion Sensor:<br>
+12.Motion Sensor Buzzer:<br>
+13.Ultra Sonic sensor LED<br>
 
 
 
@@ -21,5 +21,5 @@
 
 
 # Servometer
-https://wokwi.com/projects/334980474406437458 with potentiometer
-https://wokwi.com/projects/334980150211904084 without
+https://wokwi.com/projects/334980474406437458 with potentiometer<br>
+https://wokwi.com/projects/334980150211904084 without<br>
