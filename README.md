@@ -7,7 +7,7 @@
 
 #
 4.LCD: https://wokwi.com/projects/334976766828347987<br>
-5.Ultrasonic sensor: https://wokwi.com/projects/334977837533495891
+5.Ultrasonic sensor: https://wokwi.com/projects/334977837533495891<br>
 6.Temperature and Humidity:<br>
 7.IR:<br>
 8.PIR:<br>
