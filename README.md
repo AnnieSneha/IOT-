@@ -24,4 +24,8 @@
 https://wokwi.com/projects/334980474406437458 with potentiometer<br>
 https://wokwi.com/projects/334980150211904084 without<br>
 https://wokwi.com/projects/335065573974082132 using for loops<br>
+
+# Buzzer
 https://wokwi.com/projects/335065202784469587 buzzer<br>
+https://wokwi.com/projects/335068546361983572 buzzer with pushbuuton<br>
+
