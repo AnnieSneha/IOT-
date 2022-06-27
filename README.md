@@ -6,7 +6,7 @@
 3.https://wokwi.com/projects/334340428564267602 uisng RGB<br>
 
 # LCD
-4.LCD: https://wokwi.com/projects/334976766828347987<br>
+4.https://wokwi.com/projects/334976766828347987<br>
 
 # Servomotor
 5.https://wokwi.com/projects/334980474406437458 With Slide Servometer <br>
