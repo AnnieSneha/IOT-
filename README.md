@@ -8,8 +8,6 @@
 # LCD
 4.LCD: https://wokwi.com/projects/334976766828347987<br>
 
-5.Ultrasonic sensor: https://wokwi.com/projects/334977837533495891<br>
-
 # Servomotor
 5.https://wokwi.com/projects/334980474406437458 With Slide Servometer <br>
 6 https://wokwi.com/projects/334980150211904084 With Servometer<br>
