@@ -1,9 +1,9 @@
 # IOT-LAB
 
 # LED
-1. https://wokwi.com/projects/333715280525001300 <br>
-2.https://wokwi.com/projects/334348041107538516 <br>
-3.https://wokwi.com/projects/334340428564267602 <br>
+1.https://wokwi.com/projects/333715280525001300 using LED<br>
+2.https://wokwi.com/projects/334348041107538516 using 3 LED<br>
+3.https://wokwi.com/projects/334340428564267602 uisng RGB<br>
 
 # LCD
 4.LCD: https://wokwi.com/projects/334976766828347987<br>
@@ -26,7 +26,19 @@
 
 
 
-
+https://wokwi.com/projects/333796636268429907 - LED https://wokwi.com/projects/333802415714206291 - 3 LED
+https://wokwi.com/projects/333801005399409236 - RGB Led
+https://wokwi.com/projects/322062421191557714 - LIQUID CRYSTAL
+https://wokwi.com/projects/334977803083579987 - Servo Motor(Angluar motion)
+https://wokwi.com/projects/334978360097636947 - (Circular Motion)
+https://wokwi.com/projects/334981582917993044 - Servo Motor + Potentiometer
+https://wokwi.com/projects/335065356773098066 - Buzzer
+https://wokwi.com/projects/335069089200341587 - Buzzer + Pushbutton_
+https://wokwi.com/projects/335068760545165907 - Buzzer + Pushbutton_(Long Press)
+https://wokwi.com/projects/335071206921208402 - UltraSonic Sensor
+https://wokwi.com/projects/335071463215202900 - UltraSonic Sensor(extra)
+https://wokwi.com/projects/335073264458007124 - Buzzer + UltraSonic Sensor
+https://wokwi.com/projects/335075055329346132 - Buzzer + UltraSonic Sensor(Varying Instensity)
 
 
 
