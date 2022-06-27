@@ -1,9 +1,9 @@
 # IOT-LAB
 
 # LED
-1.LED: https://wokwi.com/projects/333715280525001300 <br>
-2.3 LED:https://wokwi.com/projects/334348041107538516 <br>
-3.RGB LED:https://wokwi.com/projects/334340428564267602 <br>
+1. https://wokwi.com/projects/333715280525001300 <br>
+2.https://wokwi.com/projects/334348041107538516 <br>
+3.https://wokwi.com/projects/334340428564267602 <br>
 
 # LCD
 4.LCD: https://wokwi.com/projects/334976766828347987<br>
@@ -11,9 +11,10 @@
 5.Ultrasonic sensor: https://wokwi.com/projects/334977837533495891<br>
 
 # Servomotor
-5.With Slide Servometer: https://wokwi.com/projects/334980474406437458 <br>
-6.Without: https://wokwi.com/projects/334980150211904084 without<br>
-7. https://wokwi.com/projects/335065573974082132 using for loops<br>
+5.https://wokwi.com/projects/334980474406437458 With Slide Servometer <br>
+6 https://wokwi.com/projects/334980150211904084 <br>
+7.https://wokwi.com/projects/334977803083579987
+7.https://wokwi.com/projects/335065573974082132 using for loops<br>
 
 # Buzzer
 8.Buzzerhttps://wokwi.com/projects/335065202784469587 <br>
