@@ -12,8 +12,8 @@
 
 # Servomotor
 5.https://wokwi.com/projects/334980474406437458 With Slide Servometer <br>
-6 https://wokwi.com/projects/334980150211904084 <br>
-7.https://wokwi.com/projects/334977803083579987
+6 https://wokwi.com/projects/334980150211904084 With Servometer<br>
+7.https://wokwi.com/projects/334977803083579987 
 7.https://wokwi.com/projects/335065573974082132 using for loops<br>
 
 # Buzzer
