@@ -24,7 +24,7 @@
 13.https://wokwi.com/projects/335610155442897491 With Ultrasonic Sensor + Buzzer + LED
 
 # Potentiometer
-14. https://wokwi.com/projects/335702595430515283
+14. https://wokwi.com/projects/335702595430515283 With LED
 
 
 
