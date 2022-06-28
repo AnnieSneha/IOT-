@@ -30,10 +30,10 @@
 
 
 
-6.Temperature and Humidity:<br>
-7.IR:<br>
-8.PIR:<br>
-9.button led:<br>
-10.led fade:<br>                         
-11.Motion Sensor:<br>
-12.Motion Sensor Buzzer:<br>
+Temperature and Humidity:<br>
+IR:<br>
+PIR:<br>
+button led:<br>
+led fade:<br>                         
+Motion Sensor:<br>
+Motion Sensor Buzzer:<br>
