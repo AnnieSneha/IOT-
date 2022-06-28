@@ -23,7 +23,8 @@
 12.https://wokwi.com/projects/335075055329346132 With Buzzer + UltraSonic Sensor(Varying Instensity)<br>
 13.https://wokwi.com/projects/335610155442897491 With Ultrasonic Sensor + Buzzer + LED
 
-
+# Potentiometer
+14. https://wokwi.com/projects/335702595430515283
 
 
 
