@@ -41,17 +41,17 @@ https://wokwi.com/projects/340882358612787796 <br>
 https://wokwi.com/projects/340886369600537172 <br>
 # Servo Motor + Sliding Potentiometer
 https://wokwi.com/projects/340888468071645780 <br>
-#Buzzer + Pushbutton_
+# Buzzer + Pushbutton_
 https://wokwi.com/projects/340890155914101331 <br>
-#Buzzer + UltraSonic Sensor
+# Buzzer + UltraSonic Sensor
 https://wokwi.com/projects/340890489300451922  <br>
-#Potentiometer + LED
+# Potentiometer + LED
 https://wokwi.com/projects/340890896679567955 <br>
-#DHT22
+# DHT22
 https://wokwi.com/projects/340892440485429842 <br>
-#LED CHASER<br>
+# LED CHASER<br>
 https://wokwi.com/projects/340893919446303316<br>
-#LDR<br>
+# LDR<br>
 https://wokwi.com/projects/340936317213868626  <br>
-#0LDR + LED<br>
+# LDR + LED<br>
 https://wokwi.com/projects/340936847717827156  <br>
