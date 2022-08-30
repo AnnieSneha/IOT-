@@ -28,12 +28,30 @@
 
 
 
-
-
-Temperature and Humidity:<br>
-IR:<br>
-PIR:<br>
-button led:<br>
-led fade:<br>                         
-Motion Sensor:<br>
-Motion Sensor Buzzer:<br>
+#IOT ESP32
+#LED
+https://wokwi.com/projects/336966830711112275 
+#3 LED
+https://wokwi.com/projects/336967978479256147 
+# RGB
+https://wokwi.com/projects/340880463446934098 
+#LCD
+https://wokwi.com/projects/340882358612787796 
+#Servo Motor + Pushbutton
+https://wokwi.com/projects/340886369600537172 
+# Servo Motor + Sliding Potentiometer
+https://wokwi.com/projects/340888468071645780 
+#Buzzer + Pushbutton_
+https://wokwi.com/projects/340890155914101331 
+#Buzzer + UltraSonic Sensor
+https://wokwi.com/projects/340890489300451922  
+#Potentiometer + LED
+https://wokwi.com/projects/340890896679567955 
+#DHT22
+https://wokwi.com/projects/340892440485429842 
+#LED CHASER
+https://wokwi.com/projects/340893919446303316
+LDR
+https://wokwi.com/projects/340936317213868626  
+LDR + LED
+https://wokwi.com/projects/340936847717827156  
