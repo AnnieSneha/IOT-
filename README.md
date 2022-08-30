@@ -35,9 +35,9 @@ https://wokwi.com/projects/336966830711112275 <br>
 https://wokwi.com/projects/336967978479256147 <br>
 # RGB
 https://wokwi.com/projects/340880463446934098 <br>
-#LCD
+# LCD
 https://wokwi.com/projects/340882358612787796 <br>
-#Servo Motor + Pushbutton
+# Servo Motor + Pushbutton
 https://wokwi.com/projects/340886369600537172 <br>
 # Servo Motor + Sliding Potentiometer
 https://wokwi.com/projects/340888468071645780 <br>
