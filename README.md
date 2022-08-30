@@ -41,7 +41,7 @@ https://wokwi.com/projects/340882358612787796 <br>
 https://wokwi.com/projects/340886369600537172 <br>
 # Servo Motor + Sliding Potentiometer
 https://wokwi.com/projects/340888468071645780 <br>
-# Buzzer + Pushbutton_
+# Buzzer + Pushbutton
 https://wokwi.com/projects/340890155914101331 <br>
 # Buzzer + UltraSonic Sensor
 https://wokwi.com/projects/340890489300451922  <br>
