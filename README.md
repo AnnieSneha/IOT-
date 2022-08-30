@@ -30,28 +30,28 @@
 
 #IOT ESP32
 #LED
-https://wokwi.com/projects/336966830711112275 
-#3 LED
-https://wokwi.com/projects/336967978479256147 
+https://wokwi.com/projects/336966830711112275 <br>
+#3 LED<br>
+https://wokwi.com/projects/336967978479256147 <br>
 # RGB
-https://wokwi.com/projects/340880463446934098 
+https://wokwi.com/projects/340880463446934098 <br>
 #LCD
-https://wokwi.com/projects/340882358612787796 
+https://wokwi.com/projects/340882358612787796 <br>
 #Servo Motor + Pushbutton
-https://wokwi.com/projects/340886369600537172 
+https://wokwi.com/projects/340886369600537172 <br>
 # Servo Motor + Sliding Potentiometer
-https://wokwi.com/projects/340888468071645780 
+https://wokwi.com/projects/340888468071645780 <br>
 #Buzzer + Pushbutton_
-https://wokwi.com/projects/340890155914101331 
+https://wokwi.com/projects/340890155914101331 <br>
 #Buzzer + UltraSonic Sensor
-https://wokwi.com/projects/340890489300451922  
+https://wokwi.com/projects/340890489300451922  <br>
 #Potentiometer + LED
-https://wokwi.com/projects/340890896679567955 
+https://wokwi.com/projects/340890896679567955 <br>
 #DHT22
-https://wokwi.com/projects/340892440485429842 
-#LED CHASER
-https://wokwi.com/projects/340893919446303316
-LDR
-https://wokwi.com/projects/340936317213868626  
-LDR + LED
-https://wokwi.com/projects/340936847717827156  
+https://wokwi.com/projects/340892440485429842 <br>
+#LED CHASER<br>
+https://wokwi.com/projects/340893919446303316<br>
+#LDR<br>
+https://wokwi.com/projects/340936317213868626  <br>
+#0LDR + LED<br>
+https://wokwi.com/projects/340936847717827156  <br>
